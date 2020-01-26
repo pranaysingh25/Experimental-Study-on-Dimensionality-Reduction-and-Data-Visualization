@@ -10,3 +10,5 @@ The project was based on Dimensionality Reduction Algorithms in which I used Var
 >> PCA, when chained with other algorithms, helps to perform reduction faster.
 >> PCA scales faster than other algorithms but is not that good in creating clusters.
 >> Manifold based algorithms scale very poorly with larger datasets, hence they are very slow.
+
+Dataset used: MNIST dataset
